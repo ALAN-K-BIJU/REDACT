@@ -8,7 +8,9 @@
 
 Experience REDACT in action:
 
-[![Watch the Demo](https://drive.google.com/file/d/1s10wnxPpQmpQ-1-vQ3j1EV8hmQp8ii5h/view?usp=sharing)]
+## 🎥 Demo Video
+
+Watch the full demo here: [REDACT Project Demo](https://drive.google.com/file/d/1s10wnxPpQmpQ-1-vQ3j1EV8hmQp8ii5h/view?usp=sharing)
 
 ---
 
