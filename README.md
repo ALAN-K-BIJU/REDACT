@@ -8,7 +8,7 @@
 
 Experience REDACT in action:
 
-[![Watch the Demo](https://github.com/ALAN-K-BIJU/REDACT/blob/main/demo_video.mp4)]
+[![Watch the Demo](https://drive.google.com/file/d/1s10wnxPpQmpQ-1-vQ3j1EV8hmQp8ii5h/view?usp=sharing)]
 
 ---
 
